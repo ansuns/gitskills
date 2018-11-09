@@ -1,3 +1,0 @@
-# gitskills
-gitsiklls
-branch
