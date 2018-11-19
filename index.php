@@ -1,4 +1,3 @@
 <?php
     echo phpinfo();
-//
-//way
+//no this way.
